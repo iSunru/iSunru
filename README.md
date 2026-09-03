@@ -1,64 +1,62 @@
-<!-- ===================== HEADER ===================== -->
+<!-- =====================================================
+     ⚡ CYBERPUNK × GAMING GITHUB PROFILE
+     👤 GitHub: isunru
+====================================================== -->
 
 <div align="center">
 
-# 👋 Hey, I'm Sunru
-
-### 💻 Developer | 🎮 Gamer | 🚀 Always Learning
-
-<img src="https://komarev.com/ghpvc/?username=isunru&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SUNRU&fontAlign=50&fontAlignY=40&desc=DEVELOPER%20×%20GAMER&descAlignY=62&animation=fadeIn&color=gradient&fontColor=ffffff" width="100%" />
 
 <br/>
 
-> **Turning ☕ coffee into code and ⛏️ blocks into adventures.**
+<a href="https://github.com/isunru">
+  <img src="https://komarev.com/ghpvc/?username=isunru&label=PROFILE%20VIEWS&style=for-the-badge&color=blueviolet" />
+</a>
+
+<br/><br/>
+
+### ⚡ CODE • CREATE • PLAY ⚡
 
 </div>
 
 ---
 
-<!-- ===================== PROFILE CARD ===================== -->
-
-## 🪪 Developer Profile
+## 👾 PLAYER PROFILE
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-### 👨‍💻 ABOUT ME
+### 👋 About Me
 
-```text
-🎮 Gamer + Developer
-
-⚡ Currently learning:
-   JavaScript & Java
-
-🛠️ Building:
-   Cool web projects
-
-🧠 Learning:
-   Python & Programming
-
-🎯 Goal:
-   Become a better developer
+```javascript
+const player = {
+  name: "Sunru",
+  role: "Developer & Gamer",
+  location: "Earth 🌍",
+  currentlyLearning: ["JavaScript", "Java", "Python"],
+  favoriteGame: "Minecraft ⛏️",
+  mission: "Level up my coding skills 🚀"
+};
 ```
 
 </td>
 
-<td>
+<td width="50%">
 
-### 🎮 PLAYER STATS
+### 🎮 Player Status
 
-```text
-PLAYER      SUNRU
-CLASS       DEVELOPER
-LEVEL       LOADING...
-MAIN GAME   MINECRAFT
+🟢 **STATUS:** Online
 
-SKILLS
-████████░░  CODING
-██████░░░░  DESIGN
-███████░░░  GAMING
-```
+💻 **CLASS:** Developer
+
+🎯 **CURRENT QUEST:** Learning & Building
+
+⛏️ **FAVORITE GAME:** Minecraft
+
+⚡ **POWER SOURCE:** Code + Music
+
+🔥 **MODE:** Grinding XP
 
 </td>
 </tr>
@@ -66,13 +64,11 @@ SKILLS
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
-## 💻 Tech Stack
+# ⚔️ TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,git,github,vscode&perline=9" />
 
 </div>
 
@@ -80,33 +76,25 @@ SKILLS
 
 <div align="center">
 
-| 🌐 Web     | 💻 Programming |
-| ---------- | -------------- |
-| HTML       | Java           |
-| CSS        | C++            |
-| JavaScript | Python         |
+![HTML](https://img.shields.io/badge/HTML-LEVEL%20UP-orange?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-STYLING-blue?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-LEVELING%20UP-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 </div>
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Analytics
+# 📊 PLAYER ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isunru&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isunru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isunru&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isunru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
----
-
-<!-- ===================== STREAK ===================== -->
-
-## 🔥 Coding Streak
+<br/>
 
 <div align="center">
 
@@ -116,160 +104,136 @@ SKILLS
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 📈 Contribution Activity
+# 📡 CODING ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isunru&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isunru&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" />
 
 </div>
 
 ---
 
-<!-- ===================== SPOTIFY ===================== -->
-
-## 🎧 Spotify
+# 🎧 NOW PLAYING
 
 <div align="center">
 
-### 🎵 Currently Vibing To...
+### Streaming directly from my world to yours.
 
-<!--
-Spotify card setup required.
-
-You can connect your Spotify account using:
-https://github.com/novatorem/novatorem
-
-After setup, replace the username below.
--->
+<!-- Replace YOUR_SPOTIFY_ID with your actual Spotify User ID -->
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" />
 </a>
 
+<br/><br/>
+
+`🎵 Connect Spotify to activate live music status`
+
 </div>
 
 ---
 
-<!-- ===================== GAMING ===================== -->
-
-# 🎮 Gaming Dashboard
+# 🎮 GAMING SYSTEM
 
 <div align="center">
 
-## ⛏️ MINECRAFT PLAYER
+### ⛏️ MAIN WORLD: MINECRAFT
+
+<img src="https://img.shields.io/badge/GAME-MINECRAFT-00ff88?style=for-the-badge&logo=minecraft&logoColor=white" />
+
+<br/><br/>
 
 </div>
 
-```text
-╔══════════════════════════════════════╗
-║          🎮 PLAYER PROFILE           ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  PLAYER     → SUNRU                  ║
-║  MAIN GAME  → MINECRAFT ⛏️           ║
-║  ROLE       → BUILDER + EXPLORER     ║
-║                                      ║
-║  STATUS     → ONLINE 🟢              ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧱 BUILDER
+
+Creating worlds.
+
+**████████░░**
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚔️ SURVIVOR
+
+Ready for adventure.
+
+**████████░░**
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 CODER
+
+Building with code.
+
+**███████░░░**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-### 🏆 Gaming Skills
-
-| Skill        | Level |
-| ------------ | ----- |
-| ⛏️ Minecraft | ⭐⭐⭐⭐⭐ |
-| 🧱 Building  | ⭐⭐⭐⭐  |
-| ⚔️ Survival  | ⭐⭐⭐⭐  |
-| 💻 Coding    | ⭐⭐⭐⭐  |
-| 🧠 Learning  | ⭐⭐⭐⭐⭐ |
+<img src="https://github-profile-trophy.vercel.app/?username=isunru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
 ---
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-## 🏆 Developer Achievements
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=isunru&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://raw.githubusercontent.com/isunru/isunru/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-# 🐍 Contribution Snake
+# 🚀 CURRENT QUESTS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/isunru/isunru/output/github-contribution-grid-snake.svg" />
+| 🎯 Quest                    | 📊 Progress    |
+| --------------------------- | -------------- |
+| JavaScript Mastery          | ████████░░ 80% |
+| Building Projects           | ██████░░░░ 60% |
+| Java Programming            | ██████░░░░ 60% |
+| Python Skills               | █████░░░░░ 50% |
+| Becoming a Better Developer | ████████░░ ∞   |
 
 </div>
 
 ---
 
-<!-- ===================== CURRENT MISSION ===================== -->
-
-# 🚀 Current Mission
-
-```text
-╔════════════════════════════════════╗
-║           🚀 QUEST LOG             ║
-╠════════════════════════════════════╣
-║                                    ║
-║  🎯 Learn JavaScript               ║
-║  💻 Build Amazing Projects         ║
-║  🧠 Improve Programming Skills     ║
-║  🌐 Become a Better Web Developer  ║
-║                                    ║
-╚════════════════════════════════════╝
-```
-
----
-
-<!-- ===================== QUOTE ===================== -->
-
-## 💭 Developer Quote
-
-<div align="center">
-
-> "First, solve the problem. Then, write the code." 💻
-
-</div>
-
----
-
-<!-- ===================== SOCIALS ===================== -->
-
-## 🌐 Connect With Me
+# 🌐 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/isunru">
-<img src="https://img.shields.io/badge/GitHub-isunru-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GITHUB-isunru-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
----
+### ⚡ Thanks for visiting my digital world.
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**🎮 Code. Build. Play. Repeat. 💻**
+**`while(alive) { code(); play(); levelUp(); }`**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=isunru&label=VISITORS&color=blueviolet&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%" />
 
 </div>
