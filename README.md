@@ -3,6 +3,7 @@
 </div>
 
 # 💫 About Me:
+![](https://komarev.com/ghpvc/?iSunru=your-github-username&abbreviated=true)
 🌱 I’m currently learning JavaScript<br>💬 Ask me about WebDev, Minecraft, Graphic Design
 
 
