@@ -6,210 +6,30 @@
 
 ---
 
-## 👾 PLAYER PROFILE
+# 💫 About Me:
+🌱 I’m currently learning JavaScript<br>💬 Ask me about WebDev, Minecraft, Graphic Design
 
-<table>
-<tr>
-<td width="50%">
 
-### 👋 About Me
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/iSunru) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunrukun) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iSunru) 
 
-```javascript
-const player = {
-  name: "Sunru",
-  role: "Developer & Gamer",
-  location: "Earth 🌍",
-  currentlyLearning: ["JavaScript", "Java", "Python"],
-  favoriteGame: "Minecraft ⛏️",
-  mission: "Level up my coding skills 🚀"
-};
-```
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=iSunru&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=iSunru&theme=slateorange&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iSunru&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</td>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iSunru&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<td width="50%">
-
-### 🎮 Player Status
-
-🟢 **STATUS:** Online
-
-💻 **CLASS:** Developer
-
-🎯 **CURRENT QUEST:** Learning & Building
-
-⛏️ **FAVORITE GAME:** Minecraft
-
-⚡ **POWER SOURCE:** Code + Music
-
-🔥 **MODE:** Grinding XP
-
-</td>
-</tr>
-</table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=iSunru&icon=1&color=4)](https://visitcount.itsvg.in)
 
-# ⚔️ TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,git,github,vscode&perline=9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML-LEVEL%20UP-orange?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-STYLING-blue?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-LEVELING%20UP-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-</div>
-
----
-
-# 📊 PLAYER ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isunru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isunru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=isunru&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📡 CODING ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isunru&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" />
-
-</div>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/isunru/isunru/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake"
-  />
-</p>
-
----
-
-# 🎧 NOW PLAYING
-
-<div align="center">
-
-### Streaming directly from my world to yours.
-
-<!-- Replace YOUR_SPOTIFY_ID with your actual Spotify User ID -->
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" />
-</a>
-
-<br/><br/>
-
-`🎵 Connect Spotify to activate live music status`
-
-</div>
-
----
-
-# 🎮 GAMING SYSTEM
-
-<div align="center">
-
-### ⛏️ MAIN WORLD: MINECRAFT
-
-<img src="https://img.shields.io/badge/GAME-MINECRAFT-00ff88?style=for-the-badge&logo=minecraft&logoColor=white" />
-
-<br/><br/>
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧱 BUILDER
-
-Creating worlds.
-
-**████████░░**
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚔️ SURVIVOR
-
-Ready for adventure.
-
-**████████░░**
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 CODER
-
-Building with code.
-
-**███████░░░**
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=isunru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/isunru/isunru/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🚀 CURRENT QUESTS
-
-<div align="center">
-
-| 🎯 Quest                    | 📊 Progress    |
-| --------------------------- | -------------- |
-| JavaScript Mastery          | ████████░░ 80% |
-| Building Projects           | ██████░░░░ 60% |
-| Java Programming            | ██████░░░░ 60% |
-| Python Skills               | █████░░░░░ 50% |
-| Becoming a Better Developer | ████████░░ ∞   |
-
-</div>
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 🌐 CONNECT
 
 <div align="center">
