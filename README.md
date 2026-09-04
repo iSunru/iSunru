@@ -3,7 +3,8 @@
 </div>
 
 # 💫 About Me:
-![](https://komarev.com/ghpvc/?iSunru=your-github-username&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=isunru&abbreviated=true)
+
 🌱 I’m currently learning JavaScript<br>💬 Ask me about WebDev, Minecraft, Graphic Design
 
 
@@ -21,13 +22,12 @@
   <img src="https://img.shields.io/badge/GITHUB-isunru-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
+<br/>
 ### ⚡ Thanks for visiting my digital world.
 
 **`while(alive) { code(); play(); levelUp(); }`**
 
-<br/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%" />
 
