@@ -1,23 +1,8 @@
-<!-- =====================================================
-     ⚡ CYBERPUNK × GAMING GITHUB PROFILE
-     👤 GitHub: isunru
-====================================================== -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SUNRU&fontAlign=50&fontAlignY=40&desc=DEVELOPER%20×%20GAMER&descAlignY=62&animation=fadeIn&color=gradient&fontColor=ffffff" width="100%" />
-
-<br/>
-
-<a href="https://github.com/isunru">
-  <img src="https://komarev.com/ghpvc/?username=isunru&label=PROFILE%20VIEWS&style=for-the-badge&color=blueviolet" />
-</a>
-
-<br/><br/>
-
-### ⚡ CODE • CREATE • PLAY ⚡
-
+  <img src="./sunru_dotted_hands.svg" width="100%" alt="Sunru">
 </div>
+
+
 
 ---
 
